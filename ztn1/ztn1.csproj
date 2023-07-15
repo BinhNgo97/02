@@ -76,6 +76,7 @@
     <None Include="manifests\TemplateTest_DynamoCustomization.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="src\CreateFloor.cs" />
     <Compile Include="src\HelloDynamo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
