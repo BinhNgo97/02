@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\0.2 Phần mềm\\0.2 Dynamo\\0.3 Dynamo vs C#\\0.00 Learn\\0.2 TestingEverything\\02\\ztn1\\ztn1.csproj": {}
+  },
+  "projects": {
+    "F:\\0.2 Phần mềm\\0.2 Dynamo\\0.3 Dynamo vs C#\\0.00 Learn\\0.2 TestingEverything\\02\\ztn1\\ztn1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\0.2 Phần mềm\\0.2 Dynamo\\0.3 Dynamo vs C#\\0.00 Learn\\0.2 TestingEverything\\02\\ztn1\\ztn1.csproj",
+        "projectName": "ztn1",
+        "projectPath": "F:\\0.2 Phần mềm\\0.2 Dynamo\\0.3 Dynamo vs C#\\0.00 Learn\\0.2 TestingEverything\\02\\ztn1\\ztn1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\0.2 Phần mềm\\0.2 Dynamo\\0.3 Dynamo vs C#\\0.00 Learn\\0.2 TestingEverything\\02\\ztn1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "DynamoVisualProgramming.DynamoCoreNodes": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.1.*, )"
+            },
+            "DynamoVisualProgramming.DynamoServices": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.1.*, )"
+            },
+            "DynamoVisualProgramming.Tests": {
+              "target": "Package",
+              "version": "[2.18.1.5096, )"
+            },
+            "DynamoVisualProgramming.ZeroTouchLibrary": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.1.*, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "RevitTestFramework": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.19.23, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

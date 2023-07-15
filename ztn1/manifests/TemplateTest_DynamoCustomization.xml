@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <assembly>
+    <name>ztn1</name>
+  </assembly>
+  <namespaces>
+    <!--Uncomment the below and change how the class will be displayed in Dynamo Library -->
+    <namespace name="ztn1">
+      <category>ztn1</category>
+    </namespace>
+  </namespaces>
+</doc>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ztn1</name>
+    </assembly>
+    <members>
+        <member name="T:ztn1.HelloDynamo">
+            <summary>
+            Hello World basic sample
+            </summary>
+        </member>
+        <member name="M:ztn1.HelloDynamo.SayHello(System.String)">
+            <summary>
+            Prints a friendly greeting
+            </summary>
+            <param name="name">Name of the person to greet</param>
+            <returns>A greeting</returns>
+        </member>
+    </members>
+</doc>
