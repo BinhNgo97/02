@@ -7,7 +7,6 @@ F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything
 F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\obj\Debug\Testting.csproj.AssemblyReference.cache
 F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\obj\Debug\Testting.csproj.CoreCompileInputs.cache
 F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\obj\Debug\Testting.csproj.CopyComplete
 F:\0.2 Phần mềm\0.2 Dynamo\0.3 Dynamo vs C#\0.00 Learn\0.2 TestingEverything\02\Testting\obj\Debug\Testting.dll
